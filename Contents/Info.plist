@@ -22,6 +22,8 @@
 	</array>
 	<key>PlexPluginDebug</key>
 	<string>1</string>
+	<key>PlexClientPlatforms</key>
+	<string>*</string>
 	<key>PlexPluginMode</key>
 	<string>Daemon</string>
 	<key>PlexVideoCodec</key>
