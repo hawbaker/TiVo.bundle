@@ -6,15 +6,11 @@
 	<string>com.plexapp.plugins.tivo</string>
 	<key>PlexClientPlatforms</key>
 	<string>*</string>
-	<key>PlexMediaContainer</key>
-	<array>
-		<string>TS</string>
-	</array>
-	<key>PlexPluginDebug</key>
+	<key>PlexFrameworkVersion</key>
 	<string>1</string>
-	<key>PlexVideoCodec</key>
+	<key>PlexPluginTesterFlags</key>
 	<array>
-		<string>MPEG2?</string>
+		<string>NoURLServices</string>
 	</array>
 </dict>
 </plist>
